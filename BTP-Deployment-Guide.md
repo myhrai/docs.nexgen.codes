@@ -1,11 +1,11 @@
 # BTP Deployment Guide
 
-## Create a Private GitHub Repo with README.md
+## 1. Create a Private GitHub Repo with README.md
 ![alt text](image.png)
 
 
 
-## Configure the BTP credentials in your private GitHub repo:
+## 2. Configure the BTP credentials in your private GitHub repo:
 
 ### Add Secrects (BTP Credentials)
 
@@ -26,10 +26,10 @@
 
 
 
-## Generate GitHub Access Token:
+## 3. Generate GitHub Access Token:
 ![alt text](image-6.png)
 
 
 
-## NexGen.codes BTP Deployment:
+## 4. NexGen.codes BTP Deployment:
 ![alt text](image-7.png)

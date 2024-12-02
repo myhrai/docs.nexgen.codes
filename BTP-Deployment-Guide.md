@@ -1,7 +1,7 @@
 # BTP Deployment Guide
 
 ## 1. Create a Private GitHub Repo with README.md
-![alt text](image.png)
+![alt text](images/image.png)
 
 
 

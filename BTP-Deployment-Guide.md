@@ -4,6 +4,9 @@
 ![alt text](image.png)
 
 ## Configure the BTP credentials in your private GitHub repo:
+
+### Add Secrects (BTP Credentials)
+
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
@@ -11,6 +14,9 @@
 ![alt text](image-3.png)
 
 ![alt text](image-4.png)
+
+
+### Add Variables (BTP Connection Details)
 
 ![alt text](image-5.png)
 

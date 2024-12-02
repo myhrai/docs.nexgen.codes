@@ -9,27 +9,27 @@
 
 ### Add Secrects (BTP Credentials)
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 
 
 ### Add Variables (BTP Connection Details)
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 
 
 
 ## 3. Generate GitHub Access Token:
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 
 
 ## 4. NexGen.codes BTP Deployment:
-![alt text](image-7.png)
+![alt text](images/image-7.png)
